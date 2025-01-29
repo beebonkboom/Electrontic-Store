@@ -1,5 +1,5 @@
 # Electronics Store - GUI
-
+![Electronics Store GUI](GUI.png)
 ## Overview
 A JavaFX-based GUI for an Electronics Store using the MVC paradigm. Users can manage inventory, add items to a cart, complete sales, and track store performance.
 
